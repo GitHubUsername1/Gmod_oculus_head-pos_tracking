@@ -9,8 +9,8 @@
 using namespace OVR;
 using namespace std;
 
-bool initialise = false;
-constexpr float d2r = 57.295781;
+auto initialise{ false };
+constexpr auto d2r{ 57.295781 };
 
 ovrHmd HMD;
 double HmdFrameTiming;

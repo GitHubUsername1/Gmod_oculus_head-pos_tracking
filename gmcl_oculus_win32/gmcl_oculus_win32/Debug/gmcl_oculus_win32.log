@@ -1,1 +1,12 @@
-﻿  gmcl_oculus_win32.vcxproj -> G:\Projects\gmcl_oculus_win32\Debug\gmcl_oculus_win32.dll
+﻿  ovr6dof.cpp
+  Main.cpp
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'ovrBool', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\documents\github\gmod_oculus_head-pos_tracking\gmcl_oculus_win32\gmcl_oculus_win32\main.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Debug\gmcl_oculus_win32.lib and object C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Debug\gmcl_oculus_win32.exp
+  gmcl_oculus_win32.vcxproj -> C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Debug\gmcl_oculus_win32.dll

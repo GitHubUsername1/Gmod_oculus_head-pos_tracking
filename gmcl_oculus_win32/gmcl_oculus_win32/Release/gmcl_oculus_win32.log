@@ -1,1 +1,15 @@
-﻿  gmcl_oculus_win32.vcxproj -> G:\Projects\gmcl_oculus_win32\Release\gmcl_oculus_win32.dll
+﻿  Main.cpp
+Main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'ovrBool', possible loss of data
+Main.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Release\gmcl_oculus_win32.lib and object C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Release\gmcl_oculus_win32.exp
+  Generating code
+  0 of 23 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  gmcl_oculus_win32.vcxproj -> C:\Users\cris\Documents\GitHub\Gmod_oculus_head-pos_tracking\gmcl_oculus_win32\Release\gmcl_oculus_win32.dll
